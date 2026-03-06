@@ -1,2 +1,2 @@
 # agent-spring
-Langa agent Logs and metric collector for Java Spring Application
+Java Spring Agent for collecting logs and metrics with support for Log4j2, Logback, and AOP-based monitoring
