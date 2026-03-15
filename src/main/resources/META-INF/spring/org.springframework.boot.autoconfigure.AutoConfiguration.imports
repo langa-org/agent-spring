@@ -1,0 +1,2 @@
+com.capricedumardi.agent.core.config.actuator.LangaActuatorAutoConfiguration
+com.capricedumardi.agent.core.config.aspect.LangaMonitoringAutoConfiguration
